@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\BejegyzesekController;
 use Illuminate\Support\Facades\Route;
 
 /*
